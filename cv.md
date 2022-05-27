@@ -6,7 +6,7 @@
 ##### Phone: +48 573 121 282
 ##### Email: 7091764@gmail.com
 ##### Github: KateVasilevskaya
-##### RSSchool: Katsiaryna Vasilevskaya
+##### RSSchool: Kate Vasilevskaya
 
 
 ## Summary
