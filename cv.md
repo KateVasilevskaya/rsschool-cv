@@ -1,5 +1,5 @@
 # Vasilevskaya Kate 
-![my-photo]("https://github.com/KateVasilevskaya/rsschool-cv/blob/gh-pages/photo_2022-05-29_15-36-09.jpg")
+![my-photo]( https://github.com/KateVasilevskaya/rsschool-cv/blob/gh-pages/photo_2022-05-29_15-36-09.jpg )
 
 ## Contacts
 
