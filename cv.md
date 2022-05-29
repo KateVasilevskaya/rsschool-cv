@@ -1,12 +1,12 @@
 # Vasilevskaya Kate 
-![my-photo]()
+![my-photo]("D:\rsschool-cv\photo_2022-05-28_00-31-38.jpg")
 
 ## Contacts
 
 ##### Phone: +48 573 121 282
 ##### Email: 7091764@gmail.com
 ##### Github: KateVasilevskaya
-##### RSSchool: Kate Vasilevskaya
+##### RSSchool: Katsiaryna Vasilevskaya
 
 
 ## Summary
