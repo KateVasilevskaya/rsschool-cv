@@ -38,3 +38,21 @@ function sortMyString(S) {
   return one + " " + two;
 }
 ```
+
+## Skills
+
+- HTML
+- CSS
+- Git
+- CitHub
+- start JS
+- English A1
+- Polish A2
+
+## Personal skills
+
+- Good analytical skills
+- Purposeful
+- Easy to learn
+- Good communication skills
+- Hardworking
