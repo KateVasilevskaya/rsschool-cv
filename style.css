@@ -104,7 +104,7 @@ html {
 }
 
 #fotos {
-  background-image: url(assets/img/photo_09.jpg);
+  background-image: url(/photo_2019.jpg);
   width: 40%;
   background-repeat: no-repeat;
   background-size: cover;
