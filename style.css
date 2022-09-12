@@ -21,7 +21,7 @@ body {
   flex: 1 1 auto;
   display: flex;
   flex-wrap: wrap;
-  padding: 0 20px;
+  padding: 0 60px;
 }
 
 .container {
@@ -118,7 +118,7 @@ html {
   flex: 0 0 50%;
 }
 .main_item:nth-child(even) {
-  padding-right: 40px;
+  padding-right: 20px;
 }
 .footer {
   align-items: stretch;
@@ -127,7 +127,7 @@ html {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 20px;
+  padding: 0 60px;
 }
 h1 {
   font-size: 30px;
@@ -147,7 +147,7 @@ h3 {
 }
 .header {
   background-color: rgb(243, 199, 199);
-  padding: 0 20px;
+  padding: 0 60px;
 }
 
 .rsscool {
@@ -185,6 +185,10 @@ h3 {
 .contacts-item:nth-child(4):before {
   background-image: url(./assets/svg/rss2.svg);
 }
+.contacts-item:nth-child(5):before {
+  background-image: url(./assets/svg/github.svg);
+}
+
 .contacts-item:before {
   content: "";
   position: absolute;
@@ -198,6 +202,7 @@ h3 {
 
 .ul_item {
   list-style-type: none;
+  padding-left: 25px;
 }
 
 .li_item {
@@ -209,4 +214,7 @@ h3 {
   position: absolute;
   top: 2px;
   left: -20px;
+}
+.nameEducation {
+  font-weight: bold;
 }
